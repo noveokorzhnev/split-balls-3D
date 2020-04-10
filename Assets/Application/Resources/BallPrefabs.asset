@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 103ffadaff2ae7643b64f0bc694908c3, type: 3}
+  m_Name: BallPrefabs
+  m_EditorClassIdentifier: 
+  groups:
+  - name: Basic
+    prefabs:
+    - {fileID: 8949900957210035822, guid: b96ef2b8dda533b40bf287976b0d2638, type: 3}
+    - {fileID: 8949900957210035822, guid: 0be19f4e25dbb434ca0b521748fdd9d6, type: 3}
+    - {fileID: 8949900957210035822, guid: 67fb4d0c3312d4541ba0050109866873, type: 3}
+    - {fileID: 8949900957210035822, guid: ed5d95f872768e24498f82b5599b1260, type: 3}
+    - {fileID: 8949900957210035822, guid: c6726bed5d247154d85a2560fd24e1bc, type: 3}
+    - {fileID: 8949900957210035822, guid: 16ca622567c03b14e92ea4908ff53dc8, type: 3}
+    - {fileID: 8949900957210035822, guid: 7135d24dd37d775438a3a84c266b7fd7, type: 3}
+    - {fileID: 8949900957210035822, guid: 3167779dde54bab4e896b60e5d228ea1, type: 3}
+    - {fileID: 8949900957210035822, guid: d9062ebf47a13204d9e4ed1a6673e379, type: 3}
+  - name: Special
+    prefabs:
+    - {fileID: 8949900957210035822, guid: b96ef2b8dda533b40bf287976b0d2638, type: 3}
+    - {fileID: 8949900957210035822, guid: 0be19f4e25dbb434ca0b521748fdd9d6, type: 3}
+    - {fileID: 8949900957210035822, guid: 67fb4d0c3312d4541ba0050109866873, type: 3}
+    - {fileID: 8949900957210035822, guid: ed5d95f872768e24498f82b5599b1260, type: 3}
+    - {fileID: 8949900957210035822, guid: c6726bed5d247154d85a2560fd24e1bc, type: 3}
+    - {fileID: 8949900957210035822, guid: 16ca622567c03b14e92ea4908ff53dc8, type: 3}
+    - {fileID: 8949900957210035822, guid: 7135d24dd37d775438a3a84c266b7fd7, type: 3}
+    - {fileID: 8949900957210035822, guid: 3167779dde54bab4e896b60e5d228ea1, type: 3}
+    - {fileID: 8949900957210035822, guid: d9062ebf47a13204d9e4ed1a6673e379, type: 3}
+  - name: Watch Ads
+    prefabs:
+    - {fileID: 8949900957210035822, guid: b96ef2b8dda533b40bf287976b0d2638, type: 3}
+    - {fileID: 8949900957210035822, guid: 0be19f4e25dbb434ca0b521748fdd9d6, type: 3}
+    - {fileID: 8949900957210035822, guid: 67fb4d0c3312d4541ba0050109866873, type: 3}
+    - {fileID: 8949900957210035822, guid: ed5d95f872768e24498f82b5599b1260, type: 3}
+    - {fileID: 8949900957210035822, guid: c6726bed5d247154d85a2560fd24e1bc, type: 3}
+    - {fileID: 8949900957210035822, guid: 16ca622567c03b14e92ea4908ff53dc8, type: 3}
+    - {fileID: 8949900957210035822, guid: 7135d24dd37d775438a3a84c266b7fd7, type: 3}
+    - {fileID: 8949900957210035822, guid: 3167779dde54bab4e896b60e5d228ea1, type: 3}
+    - {fileID: 8949900957210035822, guid: d9062ebf47a13204d9e4ed1a6673e379, type: 3}
+  - name: Chests
+    prefabs:
+    - {fileID: 8949900957210035822, guid: b96ef2b8dda533b40bf287976b0d2638, type: 3}
+    - {fileID: 8949900957210035822, guid: 0be19f4e25dbb434ca0b521748fdd9d6, type: 3}
+    - {fileID: 8949900957210035822, guid: 67fb4d0c3312d4541ba0050109866873, type: 3}
+    - {fileID: 8949900957210035822, guid: ed5d95f872768e24498f82b5599b1260, type: 3}
+    - {fileID: 8949900957210035822, guid: c6726bed5d247154d85a2560fd24e1bc, type: 3}
+    - {fileID: 8949900957210035822, guid: 16ca622567c03b14e92ea4908ff53dc8, type: 3}
+    - {fileID: 8949900957210035822, guid: 7135d24dd37d775438a3a84c266b7fd7, type: 3}
+    - {fileID: 8949900957210035822, guid: 3167779dde54bab4e896b60e5d228ea1, type: 3}
+    - {fileID: 8949900957210035822, guid: d9062ebf47a13204d9e4ed1a6673e379, type: 3}

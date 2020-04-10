@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a03ed82b18a61914cb424aeabe9d4231, type: 3}
+  m_Name: ShopModel
+  m_EditorClassIdentifier: 
+  catalogScreens:
+  - catalogPrefab: {fileID: 49212894042108369, guid: 0d871b4633e949d4ab8d340acb82de37,
+      type: 3}
+    titleText: BASIC
+    titleTextColor: {r: 1, g: 0.4901961, b: 0.7736499, a: 1}
+    infoPrefab: {fileID: 7356826560519236367, guid: 0aac24b18bc89e640ba87b58b028f816,
+      type: 3}
+    subtitleText: RANDOM BASIC
+    subtitleTextColor: {r: 0.5707547, g: 0.79253143, b: 1, a: 1}
+    priceOfBall: 1000
+  - catalogPrefab: {fileID: 1540306392988595256, guid: e7a72aa35c53fce4bacc46fa6ed5aaec,
+      type: 3}
+    titleText: SPECIAL
+    titleTextColor: {r: 0.23323527, g: 0.9622642, b: 0.12255252, a: 1}
+    infoPrefab: {fileID: 5177070430977208863, guid: 5aabec704ea6a504ca5a24bf3ceae733,
+      type: 3}
+    subtitleText: RANDOM SPECIAL
+    subtitleTextColor: {r: 0.5707547, g: 0.79253143, b: 1, a: 1}
+    priceOfBall: 1500
+  - catalogPrefab: {fileID: 7085084242933234552, guid: 76241eacf374ef94cbbf2223ed2d1195,
+      type: 3}
+    titleText: WATCH ADS
+    titleTextColor: {r: 0.491, g: 0.61825, b: 1, a: 1}
+    infoPrefab: {fileID: 7950657292386609235, guid: e59d67a86a95e9042a36f6dd1423aee0,
+      type: 3}
+    subtitleText: RANDOM
+    subtitleTextColor: {r: 0.5707547, g: 0.79253143, b: 1, a: 1}
+    priceOfBall: 0
+  - catalogPrefab: {fileID: 5789649139484513487, guid: 1b173c7763f0477408fc93f9d61e93a1,
+      type: 3}
+    titleText: CHESTS
+    titleTextColor: {r: 1, g: 0.66876185, b: 0.4901961, a: 1}
+    infoPrefab: {fileID: 3351038042105406506, guid: fbe53e728ec360749ba15a8013b04a07,
+      type: 3}
+    subtitleText: NEED KEYS
+    subtitleTextColor: {r: 1, g: 0.55816996, b: 0.4901961, a: 1}
+    priceOfBall: 0
+  ballTextureUnknown: {fileID: 8400000, guid: 047b9cd1703639545be2ec9ee16ce9d3, type: 2}
+  ballTextures:
+  - {fileID: 8400000, guid: 08b662c08242aba41b6ec988b3d489f3, type: 2}
+  - {fileID: 8400000, guid: 561be21426d253f4bae09f743ff2bc6e, type: 2}
+  - {fileID: 8400000, guid: 1107ece6e2332f5448a26dceec7f027f, type: 2}
+  - {fileID: 8400000, guid: 6a0a65de9c2ee414ba29fb062e8d88bc, type: 2}
+  - {fileID: 8400000, guid: 3e6787bf71a108e41b6b7f787dec87f2, type: 2}
+  - {fileID: 8400000, guid: 0128976988f86994f9a6917d6b10de35, type: 2}
+  - {fileID: 8400000, guid: 844733beede7e3f44b6b6471b9c8663e, type: 2}
+  - {fileID: 8400000, guid: 23e904bc961c75b4897f82e54af3bc7d, type: 2}
+  - {fileID: 8400000, guid: 2d48e206ab51c3f4db1e8a576fabe5ca, type: 2}
